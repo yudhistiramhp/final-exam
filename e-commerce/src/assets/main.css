@@ -1,0 +1,269 @@
+/* @import './base.css';
+
+#app {
+  max-width: 1280px;
+  margin: 0 auto;
+  padding: 2rem;
+  font-weight: normal;
+}
+
+a,
+.green {
+  text-decoration: none;
+  color: hsla(160, 100%, 37%, 1);
+  transition: 0.4s;
+  padding: 3px;
+}
+
+@media (hover: hover) {
+  a:hover {
+    background-color: hsla(160, 100%, 37%, 0.2);
+  }
+}
+
+@media (min-width: 1024px) {
+  body {
+    display: flex;
+    place-items: center;
+  }
+
+  #app {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    padding: 0 2rem;
+  }
+} */
+
+header {
+  position: fixed;
+  top: 0;
+  left: 0;
+  right: 0;
+  z-index: 1000; /* Pastikan header berada di atas elemen lain */
+  padding: 10px 70px; /* Sesuaikan padding sesuai keinginan */
+  background-color: white;
+}
+
+main {
+  padding-top: 100px;
+}
+
+.footer {
+  background-color: #138496; 
+  color: white;
+  padding: 40px 0;
+}
+
+.footer h5 {
+  font-weight: bold;
+}
+
+.footer ul {
+  padding-left: 0;
+}
+
+.footer li {
+  margin-bottom: 10px;
+}
+
+.social-media a {
+  margin-right: 10px;
+}
+
+.social-icon {
+  width: 24px; 
+  height: 24px;
+}
+
+.footer-bottom {
+  margin-top: 30px;
+}
+
+.text-right p {
+  margin: 0;
+  font-size: 14px;
+}
+
+.img-preview-screen {
+  display: grid;
+  grid-template-columns: repeat(4, 1fr);
+  min-height: 400px;
+  gap: 16px;
+}
+
+.img-preview-1 {
+  grid-column: span 2 / span 2;
+  grid-row: span 2 / span 2;
+  
+}
+
+.img-preview-2, .img-preview-3, .img-preview-4, .img-preview-5 {
+  grid-column: span 1 / span 1;
+  grid-row: span 1 / span 1;
+  
+}
+
+.btn-success {
+  background-color: #138496;
+}
+
+.btn-outline-success {
+  border-color: #138496;
+  color: #138496;
+}
+
+.btn-success:hover {
+  background-color: #105e6a;
+}
+
+.btn-outline-success:hover {
+  background-color: #105e6a;
+}
+
+
+.signup {
+  text-decoration: none;
+  color: white;
+  padding: 10px;
+  border-radius: 5px;
+  background-color: #138496;
+}
+
+.signup:hover {
+  background-color: #105e6a;
+  color: white;
+}
+
+.login {
+  text-decoration: none;
+  color: #138496;
+  padding: 10px;
+  border-radius: 5px;
+  border: 1px solid #138496;
+}
+
+.login:hover {
+  background-color: #138496;
+  color: white;
+}
+
+.register-card {
+  background-color: white;
+  border-radius: 10px;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+  width: 350px;
+  padding: 30px;
+  position: relative;
+  margin: 30px 0px;
+}
+
+.agree-btn {
+  text-align: center;
+}
+
+
+.logo {
+  position: absolute;
+  top: 20px;
+  left: 20px;
+  width: 30px;
+}
+
+.register-card h2 {
+  margin-top: 40px;
+  color: #333;
+  font-weight: 600;
+}
+
+.form-group label {
+  float: left;
+  margin-bottom: 5px;
+  color: #333;
+}
+
+.form-control {
+  border-radius: 30px;
+}
+
+.btn-success {
+  background-color: #17a2b8;
+  width: 200px;
+  border-radius: 10px;
+  font-weight: 600;
+  margin-top: 20px;
+}
+
+.btn-success:hover {
+  background-color: #138496;
+  border-color: #138496;
+}
+
+.signup-link {
+  color: #138496;
+}
+
+.btn-success {
+  background-color: #17a2b8;
+  color: white;
+  border-radius: 10px;
+  font-weight: 600;
+  margin: 20px 0px;
+  width: 200px;
+}
+
+.btn-success:hover {
+  background-color: #138496;
+  border-color: #138496;
+}
+
+
+.signup-link {
+  color: #138496;
+}
+
+.login-card {
+  background-color: white;
+  border-radius: 10px;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+  width: 350px;
+  padding: 30px;
+  text-align: center;
+  position: relative;
+  margin: 120px 0px;
+}
+
+
+.login-card h2 {
+  margin-top: 40px;
+  color: #333;
+  font-weight: 600;
+}
+
+.enter {
+  text-decoration: none;
+  color: white;
+  padding: 10px;
+  border-radius: 20px;
+  background-color: #138496;
+  border: none;
+  margin-top: 20px;
+  margin-bottom: 10px;
+  width: 300px;
+}
+
+.enter:hover {
+  background-color: #105e6a;
+  color: white;
+}
+
+
+
+
+
+
+
+
+
+
+
+

@@ -1,0 +1,222 @@
+{
+    "products": [
+      {
+        "category": "Sweater",
+        "color": "Maroon",
+        "description": "Smooth, comfortable dress with an elegant cut suitable for business wear.",
+        "id": 0,
+        "image": "https://images.tokopedia.net/img/cache/900/attachment/2018/6/7/15283613155896/15283613155896_da07c6dd-0d08-4b3f-b826-ed1e2c3aed20.png",
+        "name": "NYC Sweater",
+        "price": 150000,
+        "shipping": 20000,
+        "size": "S",
+        "likeCount": 0
+      },
+       {
+        "category": "T-shirt",
+        "color": "Red",
+        "description": "Smooth 'AIRism' cotton-look fabric. The loose-fitting cut and slightly shorter length make this stand out.",
+        "id": 1,
+        "image": "https://down-id.img.susercontent.com/file/id-11134207-7r992-lpqmprujnqnmde.webp",
+        "name": "Red & Black T-shirt",
+        "price": 160000,
+        "shipping": 20000,
+        "size": "L",
+        "likeCount": 0
+      },
+      {
+        "category": "T-shirt",
+        "color": "Black",
+        "description": "Smooth, comfortable dress with an elegant cut suitable for business wear.",
+        "name": "Amazing T-shirt",
+        "image": "https://down-id.img.susercontent.com/file/id-11134207-7qul3-lfaxbkue9t7982@resize_w450_nl.webp",
+        "id": 2,
+        "price": 165000,
+        "shipping": 20000,
+        "size": "M",
+        "likeCount": 0
+      },
+      {
+        "category": "Batik",
+        "color": "Black",
+        "description": "Smooth, comfortable dress with an elegant cut suitable for business wear.",
+        "image": "https://down-id.img.susercontent.com/file/id-11134207-7rasd-m0da3p9eo1ue0e@resize_w450_nl.webp",
+        "id": 3,
+        "name": "Black Batic",
+        "price": 175000,
+        "shipping": 20000,
+        "size": "S",
+        "likeCount": 0
+      },
+      {
+        "category": "Jacket",
+        "color": "Blue",
+        "description": "Smooth, comfortable dress with an elegant cut suitable for business wear.",
+        "image": "https://www.tinkerlust.com/_next/image?url=https%3A%2F%2Ftinkerlust.s3.ap-southeast-1.amazonaws.com%2Fproducts%2Ff933ee1b-f15b-41d8-afad-135a52eea3b7%2Foriginal%2F1280x1280%2F509711d3c081d714b4c8-PhotoRoom_MP-22137-JC-45.jpg&w=1920&q=100",
+        "id": 4,
+        "name": "The North Face Jacket",
+        "price": 200000,
+        "shipping": 20000,
+        "size": "S",
+        "likeCount": 0
+      },
+      {
+        "category": "T-shirt",
+        "color": "Black",
+        "description": "Smooth, comfortable dress with an elegant cut suitable for business wear.",
+        "image": "https://images.tokopedia.net/img/cache/900/VqbcmM/2022/9/4/8cee1fcd-1b4f-41c2-99e0-81e0a55e37d0.jpg",
+        "id": 5,
+        "name": "Vintage Cute T-shirt",
+        "price": 140000,
+        "shipping": 20000,
+        "size": "L",
+        "likeCount": 0
+      },
+      {
+        "category": "T-shirt",
+        "color": "Yellow",
+        "description": "Smooth, comfortable dress with an elegant cut suitable for business wear.",
+        "image": "https://images.tokopedia.net/img/cache/900/VqbcmM/2022/9/8/768470a2-9f2a-44c9-b683-b58e17dfa309.jpg",
+        "id": 6,
+        "name": "Cute Cat Yellow T-shirt",
+        "price": 140000,
+        "shipping": 20000,
+        "size": "S",
+        "likeCount": 0
+      },
+      {
+        "category": "T-shirt",
+        "color": "Cream",
+        "description": "Smooth, comfortable dress with an elegant cut suitable for business wear.",
+        "image": "https://down-id.img.susercontent.com/file/ff4ff54d7b4222546bf55bcd85e81660",
+        "id": 7,
+        "name": "Cream & Black T-shirt",
+        "price": 160000,
+        "shipping": 20000,
+        "size": "M",
+        "likeCount": 0
+      },
+      {
+        "category": "T-shirt",
+        "color": "Red",
+        "description": "Smooth, comfortable dress with an elegant cut suitable for business wear.",
+        "image": "https://images.tokopedia.net/img/cache/900/hDjmkQ/2023/2/13/5284efd4-17ca-48c0-a5f7-8f8ec63effda.jpg",
+        "id": 8,
+        "name": "Awesome T-shirt",
+        "price": 160000,
+        "shipping": 20000,
+        "size": "S",
+        "likeCount": 0
+      },
+      {
+        "category": "Batik",
+        "color": "Blue",
+        "description": "Smooth, comfortable dress with an elegant cut suitable for business wear.",
+        "image": "https://images.tokopedia.net/img/cache/900/hDjmkQ/2024/6/8/5f5673d7-2eaf-4335-8ff9-7a7f3d4ddec6.jpg",
+        "id": 9,
+        "name": "Blue Batik",
+        "price": 170000,
+        "shipping": 20000,
+        "size": "L",
+        "likeCount": 0
+      },
+      {
+        "category": "Sweater",
+        "color": "Maroon",
+        "description": "Smooth, comfortable dress with an elegant cut suitable for business wear.",
+        "image": "https://images.tokopedia.net/img/cache/900/attachment/2018/6/7/15283613155896/15283613155896_da07c6dd-0d08-4b3f-b826-ed1e2c3aed20.png",
+        "id": 10,
+        "name": "NYC Sweater",
+        "price": 150000,
+        "shipping": 20000,
+        "size": "S",
+        "likeCount": 0
+      },
+      {
+        "category": "T-shirt",
+        "color": "Black",
+        "description": "Smooth, comfortable dress with an elegant cut suitable for business wear.",
+        "name": "Amazing T-shirt",
+        "image": "https://down-id.img.susercontent.com/file/id-11134207-7qul3-lfaxbkue9t7982@resize_w450_nl.webp",
+        "id": 11,
+        "price": 165000,
+        "shipping": 20000,
+        "size": "M",
+        "likeCount": 0
+      },
+      {
+        "category": "T-shirt",
+        "color": "Red",
+        "description": "Smooth, comfortable dress with an elegant cut suitable for business wear.",
+        "id": 12,
+        "image": "https://images.tokopedia.net/img/cache/900/hDjmkQ/2023/2/13/5284efd4-17ca-48c0-a5f7-8f8ec63effda.jpg",
+        "name": "Awesome T-shirt",
+        "price": 160000,
+        "shipping": 20000,
+        "size": "S",
+        "likeCount": 0
+      },
+      {
+        "category": "Batik",
+        "color": "Blue",
+        "description": "Smooth, comfortable dress with an elegant cut suitable for business wear.",
+        "image": "https://images.tokopedia.net/img/cache/900/hDjmkQ/2024/6/8/5f5673d7-2eaf-4335-8ff9-7a7f3d4ddec6.jpg",
+        "id": 13,
+        "name": "Blue Batik",
+        "price": 170000,
+        "shipping": 20000,
+        "size": "L",
+        "likeCount": 0
+      },
+      {
+        "category": "T-shirt",
+        "color": "Yellow",
+        "description": "Smooth, comfortable dress with an elegant cut suitable for business wear.",
+        "image": "https://images.tokopedia.net/img/cache/900/VqbcmM/2022/9/8/768470a2-9f2a-44c9-b683-b58e17dfa309.jpg",
+        "id": 14,
+        "name": "Cute Cat Yellow T-shirt",
+        "price": 140000,
+        "shipping": 20000,
+        "size": "S",
+        "likeCount": 0
+      },
+      {
+        "category": "T-shirt",
+        "color": "Cream",
+        "description": "Smooth, comfortable dress with an elegant cut suitable for business wear.",
+        "image": "https://down-id.img.susercontent.com/file/ff4ff54d7b4222546bf55bcd85e81660",
+        "id": 15,
+        "name": "Cream & Black T-shirt",
+        "price": 160000,
+        "shipping": 20000,
+        "size": "M",
+        "likeCount": 0
+      },
+      {
+        "category": "T-shirt",
+        "color": "Black",
+        "description": "Smooth, comfortable dress with an elegant cut suitable for business wear.",
+        "image": "https://images.tokopedia.net/img/cache/900/VqbcmM/2022/9/4/8cee1fcd-1b4f-41c2-99e0-81e0a55e37d0.jpg",
+        "id": 16,
+        "name": "Vintage Cute T-shirt",
+        "price": 140000,
+        "shipping": 20000,
+        "size": "L",
+        "likeCount": 0
+      },
+      {
+        "category": "Jacket",
+        "color": "Blue",
+        "description": "Smooth, comfortable dress with an elegant cut suitable for business wear.",
+        "image": "https://www.tinkerlust.com/_next/image?url=https%3A%2F%2Ftinkerlust.s3.ap-southeast-1.amazonaws.com%2Fproducts%2Ff933ee1b-f15b-41d8-afad-135a52eea3b7%2Foriginal%2F1280x1280%2F509711d3c081d714b4c8-PhotoRoom_MP-22137-JC-45.jpg&w=1920&q=100",
+        "id": 17,
+        "name": "The North Face Jacket",
+        "price": 200000,
+        "shipping": 20000,
+        "size": "S",
+        "likeCount": 0
+      }
+
+    
+    ]
+}
